@@ -13,3 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Reviews
+	The course works perfect for newbies in Git
