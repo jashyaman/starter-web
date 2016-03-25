@@ -22,6 +22,8 @@ Sample website with plenty of files for demos
 
 To contribute to this repository, contact the author via email.
 Please fork this repository.
+
+This modification is done to learn how stashing is done
 ### Copyright
 
 2016.Shyam Mohan
