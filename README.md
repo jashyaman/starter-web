@@ -19,7 +19,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 To contribute to this repository, contact the author via email.
-
+Please fork this repository.
 ### Copyright
 
 2016.Shyam Mohan
