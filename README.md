@@ -15,3 +15,5 @@ The purpose of this repository is to learn how to work with GitHub and git
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+To contribute to this repository, contact the author via email.
