@@ -5,6 +5,8 @@ The Starter Web Repo text will be used to enhance the various sections of the
 README file so as to describe how to use the diff tools.
 From myfeature branch
 
+git stash message example for multiple stashes
+
 git stash example - emergency fix
 ## Introduction
 
