@@ -1,6 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+The Starter Web Repo text will be used to enhance the various sections of the 
+README file so as to describe how to use the diff tools.
 
 ## Introduction
 
