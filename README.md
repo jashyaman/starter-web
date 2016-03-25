@@ -4,7 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This project has various commits just to indicate how git works.
+
 ## Purpose
+
+The purpose of this repository is to learn how to work with GitHub and git
 
 ## Deployment
 
